@@ -6,7 +6,7 @@ A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update 
 
 https://twitter.com/jusrin00/status/977535877491625985
 
-* I don't know what this meme is called - type level programming
+* Gru's plan - type level programming
 
 https://twitter.com/jusrin00/status/976887565679759361
 
