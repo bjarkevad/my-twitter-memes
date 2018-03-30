@@ -2,6 +2,22 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+* Have you considered using Validation
+
+https://twitter.com/jusrin00/status/979829757427757056
+
+* It started with ADTs...
+
+https://twitter.com/jusrin00/status/979826809608040450
+
+* Fuck that TH guy
+
+https://twitter.com/jusrin00/status/978606076236058624
+
+* Is programming without RowToList even programming at all? Moomin language meme
+
+https://twitter.com/jusrin00/status/978538467511631872
+
 * Fuel on the fire with List Error
 
 https://twitter.com/jusrin00/status/977535877491625985
