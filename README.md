@@ -2,6 +2,26 @@
 
 A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
+* Kirby teaches you to struggle to your death
+
+https://twitter.com/jusrin00/status/981663513843249152
+
+* Lurching into your timeline with my memes like
+
+https://twitter.com/jusrin00/status/981544239019515904
+
+* Pandy-face Karelian pies
+
+https://twitter.com/jusrin00/status/981483674196762624
+
+* You can't pretend to do SYT with Extensible Records without Rank-N types, nevermind global coherence problems and all
+
+https://twitter.com/jusrin00/status/981428132010917888
+
+* Drake says no Hella Boring Dudes, get you Tsukino Mito (Niji Sanji girls)
+
+https://twitter.com/jusrin00/status/980857797448486914
+
 * Have you considered using Validation
 
 https://twitter.com/jusrin00/status/979829757427757056
