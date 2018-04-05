@@ -1,6 +1,6 @@
 # My Twitter Memes
 
-A collection of my dumb ass Twitter memes. Make PRs to fix descriptions, update data, etc.
+A collection of my dank ass Twitter memes. Make PRs to fix descriptions, update data, etc.
 
 * Kirby teaches you to struggle to your death
 
